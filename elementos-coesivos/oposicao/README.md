@@ -10,8 +10,6 @@
     You are beautiful, but your think is so ugly
     Você é linda, mas seu pensamento é tão feio
 
-    
-
 ### apesar de = despite 
 
     Despite the rain, I went to work

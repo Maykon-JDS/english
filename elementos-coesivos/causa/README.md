@@ -10,6 +10,9 @@
     The bucket overflow due to its small size. 
     O balde transborda devido ao seu pequeno tamanho.
 
+    They estimated the distance in the absence of a ruler
+    Eles estimaram a distancia na ausência de uma régua
+
 ### por causa de = because of
 
     this puppies are similar to each other, because they are the same breed.

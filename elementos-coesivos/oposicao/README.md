@@ -21,6 +21,12 @@
     Despite being sick, I went to visit my friend
     Apesar de estar doente, Eu fui visitar meu amigo
 
-   
+### caso contrário = otherwise
+
+    I must do it, otherwise I'll have to leave
+    Eu devo fazer-lo, caso contrário eu vou ter que sair
+
+    
+    
 
 

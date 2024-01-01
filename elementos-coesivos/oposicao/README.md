@@ -34,5 +34,7 @@
     Although I have bought the car, I could not travel
     Embora eu tenha comprado o carro, Eu não pude viajar
     
+### ainda que = even if
 
+    
 

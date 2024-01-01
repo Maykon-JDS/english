@@ -21,12 +21,18 @@
     Despite being sick, I went to visit my friend
     Apesar de estar doente, Eu fui visitar meu amigo
 
+    Despite her apologies, I want to see her never
+    Apesar de suas desculpas, Eu quero ve-lá nunca
+
 ### caso contrário = otherwise
 
     I must do it, otherwise I'll have to leave
     Eu devo fazer-lo, caso contrário eu vou ter que sair
 
-    
+### embora = although
+
+    Although I have bought the car, I could not travel
+    Embora eu tenha comprado o carro, Eu não pude viajar
     
 
 

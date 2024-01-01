@@ -13,6 +13,12 @@
     They estimated the distance in the absence of a ruler
     Eles estimaram a distancia na ausência de uma régua
 
+    I got tired due to one specific role in job
+    Eu fiquei cansado devido a uma tarefa específica no trabalho 
+
+    He tightened the seat belt even more due to the high speed
+    Ele apertou o cinto de segurança ainda mais devido a alta velocidade
+
 ### por causa de = because of
 
     this puppies are similar to each other, because they are the same breed.
@@ -20,6 +26,8 @@
 
     I quit running because I got tired.
     Eu desisti de correr porque eu fiquei cansado.
+
+    He came to die because harms caused by acident
 
    
 

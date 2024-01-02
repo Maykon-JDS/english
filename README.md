@@ -9,6 +9,9 @@
   - [Formas de Perguntar](#formas-de-perguntar)
   - [Elementos Coesivos](#elementos-coesivos)
   - [Transformando palavras Portuguesas em Inglesas](#transformando-palavras-portuguesas-em-inglesas)
+  - [Expressões de preferencia](#expressões-de-preferencia)
+    - [Depois de certos verbos](#depois-de-certos-verbos)
+  - [Preposições](#preposições)
   - [Afixos](#afixos)
 
 ## Formas de Perguntar
@@ -48,8 +51,51 @@
 - [ÇÃO]()
 - [ÊNCIA]()
 
+## Expressões de preferencia
 
+- [I LIKE]()
+- [I PREFER]()
+- [I CAN'T STAND]()
+- [I DON'T MIND]()
+- [I HATE]()
+
+### Depois de certos verbos
+
+- [START]()
+- [STOP]()
+- [KEEP]()
+- [QUIT]()
+
+## Preposições
+
+- [IN]()
+- [ON]()
+- [AT]()
+- [TO]()
+- [FOR]()
+- [ABOUT]()
+- [AGAINST]()
+- [BY]()
+- [OVER]()
+- [UNDER]()
+- [NEXT]()
+- [NEAR]()
+- [OF]()
+- [DURING]()
+- [LIKE]()
+- [WITHOUT]()
+- [WITH]()
+- [THROUGH]()
+- [BEFORE]()
+- [AFTER]()
+- [BETWEEN]()
+- [AMONG]()
 
 ## Afixos
 
-- [ING]()
+- [ER]()
+- [ACHE]()
+- [LESS]()
+- [FULL]()
+- [PROOF]()
+- [ISH]()

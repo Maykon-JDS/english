@@ -17,13 +17,28 @@
 ### moralidade
     morality
 
+### promiscuidade 
+    promiscuity 
 
+### probidade
+    probity 
 
+### fidelidade 
+    fidelity 
 
+### estabilidade
+    stability
+    
+### reciprocidade
+    reciprocity
+
+### equidade
+    equity
+
+### maturidade 
+    maturity
     
 
-
-    
    
 
 

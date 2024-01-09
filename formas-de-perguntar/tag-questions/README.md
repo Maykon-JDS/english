@@ -10,3 +10,9 @@
 
 ## My parents were here yesterday, weren't they? 
     Meu pais estiveram aqui ontem, não é?
+
+## He is a dire person, isn't he? 
+    Ele é uma pessoa terrível, não é? 
+
+## Fortunately she is alive, isn't she? 
+    Felizmente ela está viva, não é? 

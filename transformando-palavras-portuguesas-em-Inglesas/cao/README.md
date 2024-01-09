@@ -20,11 +20,17 @@
 ### combinação
     combination
 
+### presunção
+    presumption
 
+### concepção
+    conception 
 
+### intervenção
+    intervention
 
-
-    
+### facção
+    faction
 
 
     

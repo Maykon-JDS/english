@@ -16,3 +16,6 @@
 
 ## Fortunately she is alive, isn't she? 
     Felizmente ela está viva, não é? 
+
+## She's a beautiful woman, isn't she?
+    Ela é uma bela mulher, não é? 

@@ -13,6 +13,8 @@
     - [Depois de certos verbos](#depois-de-certos-verbos)
   - [Preposições](#preposições)
   - [Afixos](#afixos)
+  - [Frases em inglês](#frases-em-inglês)
+  - [Tips](#tips)
 
 ## Formas de Perguntar
 
@@ -47,7 +49,7 @@
 ## Transformando palavras Portuguesas em Inglesas
 
 - [DADE]()
-- [AL]() 
+- [AL]()
 - [ÇÃO]()
 - [ÊNCIA]()
 
@@ -100,3 +102,20 @@
 - [PROOF]()
 - [ISH]()
 - [NESS]()
+
+## Frases em inglês
+
+- Overwhelm = I was overwhelmed with joy when I heard the news
+- Further = She needs to drive further to reach the next hospital
+- Aware = I am aware of the problem
+
+## Tips
+
+- Mergulhe em uma imersão no idioma
+- Fale em voz alta
+- Descreva locais/situações
+- Use imagens
+- Pense em inglês em todas as suas atividades diárias
+- Pense em sentenças simples
+- Tenha pequenas conversar consigo mesmo em inglês
+- Relembre seu dia em inglês

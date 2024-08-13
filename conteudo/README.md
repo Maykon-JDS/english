@@ -108,6 +108,24 @@
 - Overwhelm = I was overwhelmed with joy when I heard the news
 - Further = She needs to drive further to reach the next hospital
 - Aware = I am aware of the problem
+- Afraid =
+- Closest =
+- Couple =
+- Away =
+- Shortly =
+- Rude =
+- stoplight =
+- Turn left =
+- Go about one mile =
+- You'll see the library =
+- I think =
+- I'm not sure =
+- I hope =
+- Any =
+- Trouble =
+- I just remembered =
+- Next to =
+- Nearest =
 
 ## Tips
 

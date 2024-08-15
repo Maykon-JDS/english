@@ -126,6 +126,15 @@
 - I just remembered =
 - Next to =
 - Nearest =
+- Harm =
+- Settle = They finally settled their differences
+- Draw Attention =
+- Beat = To beat means to be the best in the competition
+- Direct
+- Very Bad = A storm is very bad weather
+- Responsibility =
+- Burden =
+
 
 ## Tips
 

@@ -108,10 +108,12 @@
 - Overwhelm = I was overwhelmed with joy when I heard the news
 - Further = She needs to drive further to reach the next hospital
 - Aware = I am aware of the problem
-- Afraid =
-- Closest =
-- Couple =
-- Away =
+- Afraid = I'm afraid of spiders
+- Closest = The closest player is 15 meters farther away
+- Couple = I make a lovely couple with my girlfriend
+- Couple = Do you need a couple of minutes to finish this?
+- Away = The store is 10 miles away
+- Away = I live 9 miles away from my girlfriend's house
 - Shortly =
 - Rude =
 - stoplight =
@@ -134,7 +136,7 @@
 - Very Bad = A storm is very bad weather
 - Responsibility =
 - Burden =
-
+-
 
 ## Tips
 

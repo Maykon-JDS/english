@@ -114,10 +114,10 @@
 - Couple = Do you need a couple of minutes to finish this?
 - Away = The store is 10 miles away
 - Away = I live 9 miles away from my girlfriend's house
-- Shortly =
-- Rude =
-- stoplight =
-- Turn left =
+- Shortly = I kissed her shortly after she arrived
+- Rude = You were rude to me when I asked you for that.
+- Stoplight = The stoplight is red
+- Turn left = You must turn left to go to the closest hospital
 - Go about one mile =
 - You'll see the library =
 - I think =

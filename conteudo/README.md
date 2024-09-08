@@ -118,16 +118,16 @@
 - Rude = You were rude to me when I asked you for that.
 - Stoplight = The stoplight is red
 - Turn left = You must turn left to go to the closest hospital
-- Go about one mile =
-- You'll see the library =
-- I think =
-- I'm not sure =
-- I hope =
-- Any =
-- Trouble =
-- I just remembered =
-- Next to =
-- Nearest =
+- Go about one mile = My girlfriend went about one mile to arrive at the hospital
+- You'll see the library = I have been seeing the library every day for two months
+- I think = She thinks to much
+- I'm not sure = I'm not sure if we have been doing is correct
+- I hope = I hope to marry with my girlfriend
+- Any = I don't have any money
+- Trouble = I have trouble with my car
+- I just remembered = Then she just remembered that I owed her money
+- Next to = I have been wanting to stay next to my girlfriend since the beginning of time.
+- Nearest = The closest nuclear reactor is also the nearest to the university
 - Harm =
 - Settle = They finally settled their differences
 - Draw Attention =
@@ -136,7 +136,44 @@
 - Very Bad = A storm is very bad weather
 - Responsibility =
 - Burden =
--
+- Amuse =
+- Tough =
+- Sufficient =
+- Surgery =
+- Roam =
+- Ugly =
+- Looking for =
+- Starlinght inn =
+- Outside =
+- About a mile and a half =
+- I've been to =
+- I see =
+- Salesman =
+- Good guess =
+- I sell wholesale auo parts =
+- By the way =
+- Pump =
+- Spell =
+- Let's move on =
+- Career
+- I see myself =
+- Leadership position =
+- Passionte
+- About this =
+- Future prediction =
+- Instant decisions =
+- Provde =
+- Nowadays =
+- Dizzy =
+- Do you ever feel =
+- Have to face =
+- Worse then =
+- However
+- Howabout =
+- Some tips =
+- Beforehand =
+- Besides =
+- present everywhere =
 
 ## Tips
 

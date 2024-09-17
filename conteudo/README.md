@@ -252,6 +252,58 @@
 -  None =
 - Appreciate =
 - Compromise =
+- My car =
+- Your car =
+- His car =
+- Her car =
+- its car =
+- Our car =
+- Their car =
+- Fantastic =
+- The best =
+- Great =
+- Nice =
+- Fantastic =
+- Great =
+- Awesome =
+- Excellent =
+- Incredible =
+- Wonderful =
+- Exceptional =
+- Satisfying =
+- Feel depressed =
+- Unsatisfield =
+- we have to face at work =
+- Worry =
+- Hurry =
+- even when =
+- Offer =
+- Bright side =
+- How wonderful =
+- Other than that =
+- However =
+- Big =
+- Enourmous =
+- Aspects of =
+- Remember =
+- Point of view =
+- Put some effort into =
+- Advanced =
+- Greeting =
+- Belong =
+- Hot spot =
+- Forbidden =
+- Abroad =
+- I'm thinking about attending =
+- that will take place in late =
+- fair enough =
+- I really =
+- I'm searching for opportunities aboard =
+- I'm ready to face this challleng
+- Fair =
+- No, not really =
+- at noon =
+
 
 ## Tips
 

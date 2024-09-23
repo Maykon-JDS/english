@@ -600,6 +600,22 @@
 - They're proud ____ their teamwork. =
 - He’s nervous ____ the interview. =
 - I'm interested ____ exploring new opportunities. =
+- Loking =
+- Abroad = 
+- Just the =
+- having to speak another language are some reasons to make our heart beat a little bit faste =
+- are some reasons =
+- to make our heart beat a little bit faster =
+-  If you are considering working abroad = 
+- you should take into consideration = 
+- You should take =
+- Become = 
+- Is a reality. = 
+- to get used to = 
+- I bet =
+- unforgettable = 
+- What do you understand by =
+- hands on or hands off = 
 
 ## Tips
 

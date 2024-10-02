@@ -138,7 +138,7 @@
 - Burden = My work is a burden to me
 - Amuse = In our first meeting, my girlfriend and I were at an amusement park
 - Tough = It's a tough thing to handle
-- Sufficient =
+- Sufficient = Do We have sufficient time to arrive at the meeting?
 - Surgery =
 - Roam =
 - Ugly =

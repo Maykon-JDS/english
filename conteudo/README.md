@@ -616,6 +616,14 @@
 - unforgettable = 
 - What do you understand by =
 - hands on or hands off = 
+- I just gave up =
+- affairs =
+- then be curious =
+- Advice =
+- I`m a little worried = 
+- so I just gave up. = 
+- And always follow up. =
+- 
 
 ## Tips
 

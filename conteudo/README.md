@@ -623,7 +623,15 @@
 - I`m a little worried = 
 - so I just gave up. = 
 - And always follow up. =
-- 
+- Be yourself =
+- Register for events =
+- Be curious and interested =
+- Follow up = 
+- Come here, I need to talk to you. = 
+- warmly = 
+- Take this laptop to the office.
+
+
 
 ## Tips
 

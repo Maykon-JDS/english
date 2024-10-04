@@ -139,8 +139,8 @@
 - Amuse = In our first meeting, my girlfriend and I were at an amusement park
 - Tough = It's a tough thing to handle
 - Sufficient = Do We have sufficient time to arrive at the meeting?
-- Surgery =
-- Roam =
+- Surgery = I need to have eye surgery
+- Roam = I would like to roam around the city at night.
 - Ugly =
 - Looking for =
 - Starlinght inn =

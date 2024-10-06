@@ -138,9 +138,9 @@
 - Burden = My work is a burden to me
 - Amuse = In our first meeting, my girlfriend and I were at an amusement park
 - Tough = It's a tough thing to handle
-- Sufficient =
-- Surgery =
-- Roam =
+- Sufficient = Do We have sufficient time to arrive at the meeting?
+- Surgery = I need to have eye surgery
+- Roam = I would like to roam around the city at night.
 - Ugly =
 - Looking for =
 - Starlinght inn =
@@ -616,6 +616,22 @@
 - unforgettable = 
 - What do you understand by =
 - hands on or hands off = 
+- I just gave up =
+- affairs =
+- then be curious =
+- Advice =
+- I`m a little worried = 
+- so I just gave up. = 
+- And always follow up. =
+- Be yourself =
+- Register for events =
+- Be curious and interested =
+- Follow up = 
+- Come here, I need to talk to you. = 
+- warmly = 
+- Take this laptop to the office.
+
+
 
 ## Tips
 

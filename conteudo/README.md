@@ -143,9 +143,9 @@
 - Roam = I would like to roam around the city at night.
 - Ugly = I know a person who is ugly
 - Looking for = I'm looking for a car key that I dropped somewhere
-- Starlinght inn =
-- Outside =
-- About a mile and a half =
+- Starlinght inn = I booked a room at Starlinght Inn
+- Outside = This is outside of my control
+- About a mile and a half = Grandma's house is about a mile and a half
 - I've been to =
 - I see =
 - Salesman =

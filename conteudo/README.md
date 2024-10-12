@@ -630,7 +630,34 @@
 - Come here, I need to talk to you. =
 - warmly =
 - Take this laptop to the office.
-
+- made this decision feel ever more appropriate =
+- Working abroad was one of the best =
+- western =
+- it borders with Germany =
+- Switzerland =
+- in the south =
+- making it an excellent traveling starter location =
+- indeed =
+- I was able to =
+- which language is not so common to be spoken by foreigners
+- Although =
+- When it comes to =
+- I was going to have a hard time learning French =
+- I actually had a hard time with French =
+- Many times I thought =
+- So I got over =
+- I'm doing just fine =
+- We set up the first date =
+- Set up =
+- Went out together =
+- Then we got envolved =
+- We're pregnant =
+- As you can see =
+- When it comes to =
+- I got over =
+- Arrange =
+- How about tomorrow =
+- A wide range of
 
 
 ## Tips

@@ -657,7 +657,16 @@
 - I got over =
 - Arrange =
 - How about tomorrow =
-- A wide range of
+- A wide range of =
+- And ends up =
+- In an assertive way =
+- Is writing a letter of interest =
+- If so =
+- You would bring to the company =
+- Not as much as =
+- Weddings =
+- hanging around =
+-
 
 
 ## Tips

@@ -150,6 +150,8 @@
 - I see = I see it
 - Salesman = The salesman is so persuasive that he managed to make me buy a new car
 - Good guess = You made a good guess!
+- Tower = He looks likes a tower
+- Shade = Over there, at the tree, there is shade
 - I sell wholesale auo parts =
 - By the way =
 - Pump =

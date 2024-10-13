@@ -146,10 +146,10 @@
 - Starlinght inn = I booked a room at Starlinght Inn
 - Outside = This is outside of my control
 - About a mile and a half = Grandma's house is about a mile and a half
-- I've been to =
-- I see =
-- Salesman =
-- Good guess =
+- I've been to = I've been working here for a long time
+- I see = I see it
+- Salesman = The salesman is so persuasive that he managed to make me buy a new car
+- Good guess = You made a good guess!
 - I sell wholesale auo parts =
 - By the way =
 - Pump =
@@ -666,7 +666,22 @@
 - Not as much as =
 - Weddings =
 - hanging around =
--
+- pick up =
+- have been up =
+- shows up =
+- I'll give him a call when we get to the library =
+- By the way =
+- It's straight down =
+- You know =
+- you are really annoying sometimes =
+- tend to come up =
+- You don't even know =
+- You're an idiot =
+- Let's meet on friday =
+- Set up =
+- Right afther this =
+- Why did she mean by =
+- Decrease =
 
 
 ## Tips

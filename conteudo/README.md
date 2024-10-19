@@ -684,6 +684,23 @@
 - Right afther this =
 - Why did she mean by =
 - Decrease =
+- You can always count on us =
+- Increasing crime =
+- Can you explain it again =
+- Do you like it or not =
+- Send our regards to =
+- Do you know her name? =
+- What is this symbol called
+- a very powerful resource job recruiters =
+- When job seeking is 100% online =
+- And they will surely connect you to people =
+- The more your =
+- The more your profile will be shown to recruiters =
+- What are these platforms suitable for, according to the text =
+- How will your profile become visible to people?
+- every job you've had =
+- By having more =
+- keep in touch =
 
 
 ## Tips

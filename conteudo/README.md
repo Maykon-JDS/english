@@ -701,6 +701,18 @@
 - every job you've had =
 - By having more =
 - keep in touch =
+- Upon reaching =
+- from 0 to 9 =
+- upon reaching the value =
+- triggered by =
+- ensuring =
+- reliable =
+- funnel their =
+- latched =
+- on each =
+- shift  =
+- at once =
+-
 
 
 ## Tips

@@ -12,7 +12,7 @@
 
     Basicamente, você adiciona "-ful" a substantivos para criar adjetivos que descrevem algo cheio ou caracterizado por essa qualidade.
 
-### grata = grateful 
+### grata = grateful
     grate = gratidão
     gratiful = cheia de gratidão = grata
 
@@ -24,7 +24,6 @@
     thank = agradecer
     thankful = cheio de gratidão = grato
 
-    
-   
 
-
+### examples
+- I'm thankful about that experience.

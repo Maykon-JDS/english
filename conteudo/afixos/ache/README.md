@@ -16,7 +16,5 @@
     back = costas
     backaches = dores nas costas
 
-    
-   
-
-
+### examples
+- My princess was in pain. She had a headache. For this reason, I had to go home to take care of her.

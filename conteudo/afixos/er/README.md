@@ -17,7 +17,5 @@
     fry = fritar
     fryer = o que frita = fritadeira
 
-    
-   
-
-
+### exemples
+- I know a female dancer who does that very well.

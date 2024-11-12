@@ -163,6 +163,7 @@
 - Where do you see yourself in five years, and how do you plan to achieve those career goals?(I see myself) = I see myself with a lot of experiences, and because this I will be managing a big company or a big team, this all in five years. My plan is to study very hard to achieve this goal.
 - Leadership position = I'm nicer than our leadership. I hope to get a leadership position soon.
 - Passionte = 
+- Why is the bite of a Komodo dagron dangerous? = Because a Komodo dragon's mouth contains many bacteria, it can kill its prey very quickly.
 - About this =
 - Future prediction =
 - Instant decisions =

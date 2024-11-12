@@ -161,6 +161,7 @@
 - Let's move on = We need to go to the meeting now. Let's move on.
 - What do you consider to be your greatest strength, and how do you think it will contribute to your success in this role? (Career) = I can learn very quickly and I adapt very easily to any situation. For instance, I learned English in just two weeks and this makes me very happy, because this ability improve my career.
 - Where do you see yourself in five years, and how do you plan to achieve those career goals?(I see myself) = I see myself with a lot of experiences, and because this I will be managing a big company or a big team, this all in five years. My plan is to study very hard to achieve this goal.
+- Why is the bite of a Komodo dagron dangerous? = Because a Komodo dragon's mouth contains many bacteria, it can kill its prey very quickly.
 - Leadership position =
 - Passionte =
 - About this =

@@ -746,6 +746,33 @@
 - fingertips =
 - doing so =
 - disrupt =
+- to hang out =
+- to meet up =
+- My party is on Wednesday =
+- Wednesday =
+- It starts at half past three =
+- Let's hang out in April =
+- Are you free in the afternoon on Sunday?
+- Sunday =
+- Thursday =
+- Monday =
+- thirteen =
+- Wednesday =
+- Tuesday =
+- Twelve =
+- the movies =
+- Double Meaning =
+- It deals =
+- ought =
+- rather than =
+- What are the verb moods in Portuguese?
+- Indicative, subjunctive, and imperative
+- What are science communication texts?
+- advancements =
+- non-specialized =
+- understandable =
+- magazine =
+- documentaries =
 -
 
 

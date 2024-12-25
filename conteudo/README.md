@@ -155,19 +155,20 @@
 - I sell wholesale auo parts =
 - By the way = I saw her this morning. By the way, have you heard about her relationship?
 - What programming languages or technologies are you currently using in your PHP programming job? (Pump) = I love working with PHP. I'm pumped to work with PHP.
-- slightly =
-- Make sure =
+- slightly = It would be slightly too kind to say that it was genial
+- Make sure = I looked twice just to make sure, haha
 - Spell = I will spell my name for you
 - Let's move on = We need to go to the meeting now. Let's move on.
 - What do you consider to be your greatest strength, and how do you think it will contribute to your success in this role? (Career) = I can learn very quickly and I adapt very easily to any situation. For instance, I learned English in just two weeks and this makes me very happy, because this ability improve my career.
 - Where do you see yourself in five years, and how do you plan to achieve those career goals?(I see myself) = I see myself with a lot of experiences, and because this I will be managing a big company or a big team, this all in five years. My plan is to study very hard to achieve this goal.
 - Leadership position = I'm nicer than our leadership. I hope to get a leadership position soon.
-- Passionte =
+- Passionte = Two passionate people for fighting
 - Why is the bite of a Komodo dagron dangerous? = Because a Komodo dragon's mouth contains many bacteria, it can kill its prey very quickly.
-- About this =
-- Future prediction =
-- Instant decisions =
-- Provde =
+- About this = it's about that
+- Future prediction = I predicted that this could happen, haha
+- Instant decisions = The dog will make an instant decision as soon as he gets closer
+- as soon as =
+- Provde = Nowadays, you can't get dizzy. Provide water for him.
 - Nowadays =
 - Dizzy =
 - Do you ever feel =
@@ -238,7 +239,7 @@
 - To charge at someone/something =
 - The charge for =
 - Lower =
-- whole =
+- whole =****
 - spaghetti =
 - Apart =
 - The two houses are 100 meters apart =
@@ -773,7 +774,19 @@
 - understandable =
 - magazine =
 - documentaries =
--
+- out loud =
+- How may I help you?
+- I'd like to =
+- Order =
+- Who are they for? =
+- shows how much we care =
+- died =
+- bouquet =
+- is that soon enough? =
+- Then we're all set.
+- it's right there =
+- wrapped around the stems =
+- She'll be thrilled =
 
 
 ## Tips

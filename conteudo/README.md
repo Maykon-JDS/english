@@ -152,7 +152,7 @@
 - Good guess = You made a good guess!
 - Tower = He looks likes a tower
 - Shade = Over there, at the tree, there is shade
-- I sell wholesale auo parts =
+- I sell wholesale auto parts = They want to buy them at wholesale and sell them at retail
 - By the way = I saw her this morning. By the way, have you heard about her relationship?
 - What programming languages or technologies are you currently using in your PHP programming job? (Pump) = I love working with PHP. I'm pumped to work with PHP.
 - slightly = It would be slightly too kind to say that it was genial
@@ -167,15 +167,15 @@
 - About this = it's about that
 - Future prediction = I predicted that this could happen, haha
 - Instant decisions = The dog will make an instant decision as soon as he gets closer
-- as soon as =
-- Provde = Nowadays, you can't get dizzy. Provide water for him.
-- Nowadays =
+- as soon as = I’ll call you as soon as I get home.
+- Provide = Nowadays, you can't get dizzy. Provide water for him.
+- Nowadays = Nowadays, get a job is harder than ten years ago;
 - Dizzy =
-- Do you ever feel =
-- Have to face =
-- Worse then =
-- However
-- Howabout =
+- Have you ever felt = Have you ever felt love?
+- Have to face = Have you faced the problem?
+- Worse then = He is worse than her!
+- However = She is beautiful; however, she is dumb
+- How about = How about studing all day?
 - Some tips =
 - Beforehand =
 - Besides =
